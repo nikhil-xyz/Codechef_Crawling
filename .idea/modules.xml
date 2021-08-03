@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CSES/.idea/CSES.iml" filepath="$PROJECT_DIR$/../CSES/.idea/CSES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Codechef_Crawling.iml" filepath="$PROJECT_DIR$/.idea/Codechef_Crawling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DSA_Learning_Series/.idea/DSA_Learning_Series.iml" filepath="$PROJECT_DIR$/../DSA_Learning_Series/.idea/DSA_Learning_Series.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Practice/.idea/Practice.iml" filepath="$PROJECT_DIR$/../Practice/.idea/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Codechef_Compete/.idea/codechef_compete.iml" filepath="$PROJECT_DIR$/../Codechef_Compete/.idea/codechef_compete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hackerrank/.idea/hackerrank.iml" filepath="$PROJECT_DIR$/../hackerrank/.idea/hackerrank.iml" />
+    </modules>
+  </component>
+</project>
